@@ -156,9 +156,9 @@ PRODUCT_COPY_FILES += \
 	vendor/motorola/milestone2/bin/ap_gain.bin:system/bin/ap_gain.bin \
 	vendor/motorola/milestone2/bin/brcm_guci_drv:system/bin/brcm_guci_drv \
 	vendor/motorola/milestone2/bin/akmd2:system/bin/akmd2 \
-	vendor/motorola/milestone2/bin/usbd:system/bin/usbd \
 	vendor/motorola/milestone2/bin/location:system/bin/location \
 	vendor/motorola/milestone2/bin/ssmgrd:system/bin/ssmgrd \
+	vendor/motorola/milestone2/bin/usbd:system/bin/usbd \
 	vendor/motorola/milestone2/bin/charge_only_mode:system/bin/charge_only_mode
 	
 #workaround for dhcpcd
